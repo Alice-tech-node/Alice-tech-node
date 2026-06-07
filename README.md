@@ -1,16 +1,75 @@
-## Hi there 👋
+**👋 Hi, I'm Alice**
 
-<!--
-**Alice-tech-node/Alice-tech-node** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Cloud & DevOps Engineer passionate about building scalable, secure, and automated infrastructure.
 
-Here are some ideas to get you started:
+I enjoy working with cloud technologies, containerization, automation, monitoring, and modern DevOps practices. My GitHub is where I document my learning journey, build hands-on projects, and experiment with new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## *💡 Always learning. Always building. Always improving.*
+
+---
+
+## 🛠️ Tech Stack
+
+**☁️ Cloud**
+AWS  • Cloud Architecture • Networking
+
+**🐳 Containers & Orchestration**
+Docker • Kubernetes • Helm • Minikube
+
+**⚙️ DevOps & Automation**
+Git • GitHub Actions • CI/CD • Terraform • Bash
+
+🖥️ Operating Systems
+Linux Administration • Windows Server
+
+📊 Monitoring & Observability
+Prometheus • Grafana
+
+🔒 Security
+IAM • Security Best Practices • Network Security
+
+---
+
+## 📈 What You'll Find Here
+
+✨ Cloud Infrastructure Projects
+
+✨ Kubernetes Deployments
+
+✨ Infrastructure as Code
+
+✨ Automation Scripts
+
+✨ CI/CD Pipelines
+
+✨ Monitoring & Observability Solutions
+
+✨ Learning Labs & Experiments
+
+---
+
+## 🎯 Current Focus
+
+🌱 Advancing Kubernetes Skills
+
+🌱 Cloud Architecture & Security
+
+🌱 Infrastructure as Code
+
+🌱 Production-Ready DevOps Practices
+
+🌱 Automation & Platform Engineering
+
+---
+
+## 📫 Let's Connect
+
+💼 LinkedIn: www.linkedin.com/in/alice-oripu
+
+📧 Email: aliceoripu@gmail.com
+
+---
+
+### 🚀 Explore my repositories to see what I'm building, automating, and learning in Cloud & DevOps.
+
+> "Automation is good, so long as you know exactly where to put the machine."
